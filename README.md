@@ -20,7 +20,7 @@ Got good code? I guarantee I can break it or your money back!
 <br />
 
 ### Technologies I like using:
-<p align="left"
+<p align="left">
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img.icons8.com/color-glass/48/000000/python.png" alt="Python" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img.icons8.com/nolan/48/git.png" alt="Git" height="40" style="vertical-align:top; margin:10px">
