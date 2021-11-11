@@ -14,7 +14,7 @@ Got good code? I guarantee I can break it or your money back!
 - 😋  If I had to describe myself in one word: Hungry! For knowledge and fries 🍟 always fries
 
 ### Talk with me, I'm kinda awesome: 
-[<img align="left" alt="Mal Wood | LinkedIn" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Mal Wood | LinkedIn" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
 
 <br />
 <br />
