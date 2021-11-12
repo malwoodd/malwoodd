@@ -10,7 +10,7 @@ Got good code? I guarantee I can break it or your money back!
 - 📊  I’m currently working on upskilling my SQL proficiency and creating visualizations in Tableau
 - 🧠  I’m looking to collaborate with other Data enthusiasts! 
 - 🥅  2022 Goals: Begin my portfolio, work on soft skills, learn Swift
-- 🎨  Fun fact: I used to [paint custom shoes](https://www.instagram.com/malwearcustoms/), and now I [make stickers](https://www.redbubble.com/people/malwearcustoms/shop)
+- 🎨  Fun fact: I have a small side business where I used to paint customs shoes, and now I sell stickers! Check out my Instagram: [MalWear Customs.]((https://www.instagram.com/malwearcustoms/))
 - 😋  If I had to describe myself in one word: Hungry! For knowledge and fries 🍟 always fries
 
 ### Talk with me, I'm kinda awesome: 
