@@ -5,7 +5,7 @@ Got good code? I guarantee I can break it or your money back!
 </p>
 
 - 🇨🇦  I'm a self-taught, passionate Data newbie from Canada
-- 💻  I'm an aspiring Analytics Engineer
+- 💻  I'm an aspiring Data Analyst
 - 👩🏼‍💻  Pronouns: She/Her
 - 📊  I’m currently working on upskilling my SQL proficiency and creating visualizations in Tableau
 - 🧠  I’m looking to collaborate with other Data enthusiasts! 
