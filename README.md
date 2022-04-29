@@ -5,10 +5,9 @@ Got good code? I guarantee I can break it or your money back!
 </p>
 
 - 🇨🇦  I'm a self-taught, passionate Data newbie from Vancouver, Canada
-- 💻  I'm an aspiring Data Analyst (and eventually Data Scientist??)
 - 👩🏼‍💻  Pronouns: She/Her
 - 🐍   I’m currently working on upskilling SQL and Python
-- 🥅  2022 Goals: Finish my Google Data analytics certificate, add three projects to github (two using ML)
+- 🥅  2022 Goals: Complete two projects (at least one using ML)
 - 🎨  Fun fact: I have a small business where I used to paint custom shoes, and now I sell stickers! Instagram: [MalWear Customs](https://www.instagram.com/malwearcustoms/)
 - 😋  If I had to describe myself in one word: Hungry! For knowledge and fries 🍟 always fries
 
