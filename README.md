@@ -23,7 +23,9 @@ Got good code? I guarantee I can break it or your money back!
 <img src="https://img.icons8.com/nolan/48/git.png" alt="Git" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img.icons8.com/color-glass/48/000000/python.png" alt="Python" height="40" style="vertical-align:top; margin:10px">
 <img src="https://pbs.twimg.com/profile_images/1352777057311223808/QxBjImFN_400x400.jpg" alt="Retool" height="40" style="vertical-align:top; margin:10px">
-<img src="https://symbols.getvecta.com/stencil_83/30_heap-analytics-icon.cecd70a4f5.svg" alt="Heap Analytics" height="40" style="vertical-align:top; margin:10px">
+<img src="https://www.programmableweb.com/sites/default/files/Heap%20Analytics%20Server-Side%20API%20Image.png" alt="Heap Analytics" height="40" style="vertical-align:top; margin:10px">
+<img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/null/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-green-tal-revivo.png" alt="AWS" height="40" style="vertical-align:top; margin:10px">
+<img src="https://www.gliffy.com/sites/default/files/image/2020-06/AWS-Database-Migration-Service_dark-bg.png" alt="DMS" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img.icons8.com/nolan/48/ms-excel.png" alt="MS Excel" height="40" style="vertical-align:top; margin:10px">
 </p>
