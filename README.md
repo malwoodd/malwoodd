@@ -4,11 +4,10 @@ Got good code? I guarantee I can break it or your money back!
 <img src="https://c.tenor.com/ShzdJcrguswAAAAC/burn-elmo.gif" width="200"/>
 </p>
 
-- 🇨🇦  I'm a self-taught, passionate, Data nerd from Canada
-- 👩🏼‍💻  Currently, I'm working as an Analytics Engineer 1
+- 🇨🇦  I'm a passionate Data nerd from Canada
+- 👩🏼‍💻  Currently, I'm working as an Analytics Engineer
 - 🐍  I’m currently working on upskilling SQL and Python
-- 🥅  2022 Goals: Complete two projects (at least one using ML)
-- 🎨  Fun fact: I have a small business where I used to paint custom shoes, and now I sell stickers! Instagram: [MalWear Customs](https://www.instagram.com/malwearcustoms/)
+- 🥅  2023 Goals: Complete two projects (at least one using ML)
 - 😋  If I had to describe myself in one word: Hungry! For knowledge and fries 🍟 always fries
 
 ### Talk with me, I'm kinda awesome: 
