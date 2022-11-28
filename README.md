@@ -26,7 +26,6 @@ Got good code? I guarantee I can break it or your money back!
 <img src="https://symbols.getvecta.com/stencil_83/30_heap-analytics-icon.cecd70a4f5.svg" alt="Heap Analytics" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img.icons8.com/nolan/48/ms-excel.png" alt="MS Excel" height="40" style="vertical-align:top; margin:10px">
-<img src="http://www.brandgradients.com/img/logos/datadog-hex-colors-gradient-logo.png" alt="Datadog" height="40" style="vertical-align:top; margin:10px">
 </p>
 
 [linkedin]: https://www.linkedin.com/in/malissa-wood-7413021b5/
